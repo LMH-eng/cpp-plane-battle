@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Back">
+      <UniqueIdentifier>{06466d45-afdf-446f-bff9-99c41b2bfc1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Player">
+      <UniqueIdentifier>{e55a3e77-d64b-478f-8ce4-ad7139df0e06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GunnerList">
+      <UniqueIdentifier>{66eb8766-ccab-4a08-a3a4-1e07fcf550fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FoeList">
+      <UniqueIdentifier>{a20e5716-dbb8-4e30-9235-144f4e885101}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Config">
+      <UniqueIdentifier>{6e139de4-03e7-4dcc-b896-a34477dbd1cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PlaneApp">
+      <UniqueIdentifier>{3e972117-4577-4f03-b78e-50fec70da468}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gameframe">
+      <UniqueIdentifier>{5a2596ce-6227-44e1-8669-3fdb00f0278f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Observer">
+      <UniqueIdentifier>{cce74dcf-1fcc-4956-8c9b-5626448faafc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Gameframe\gameframe.cpp">
+      <Filter>gameframe</Filter>
+    </ClCompile>
+    <ClCompile Include="Back\Back.cpp">
+      <Filter>Back</Filter>
+    </ClCompile>
+    <ClCompile Include="GunnerList\Gunner.cpp">
+      <Filter>GunnerList</Filter>
+    </ClCompile>
+    <ClCompile Include="GunnerList\GunnerList.cpp">
+      <Filter>GunnerList</Filter>
+    </ClCompile>
+    <ClCompile Include="FoeList\Foe.cpp">
+      <Filter>FoeList</Filter>
+    </ClCompile>
+    <ClCompile Include="FoeList\FoeBig.cpp">
+      <Filter>FoeList</Filter>
+    </ClCompile>
+    <ClCompile Include="FoeList\FoeList.cpp">
+      <Filter>FoeList</Filter>
+    </ClCompile>
+    <ClCompile Include="FoeList\FoeMid.cpp">
+      <Filter>FoeList</Filter>
+    </ClCompile>
+    <ClCompile Include="FoeList\FoeSma.cpp">
+      <Filter>FoeList</Filter>
+    </ClCompile>
+    <ClCompile Include="PlaneApp\PlaneApp.cpp">
+      <Filter>PlaneApp</Filter>
+    </ClCompile>
+    <ClCompile Include="Player\Player.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="FoeList\FacFoe.cpp">
+      <Filter>FoeList</Filter>
+    </ClCompile>
+    <ClCompile Include="Observer\Observer.cpp">
+      <Filter>Observer</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Gameframe\gameframe.h">
+      <Filter>gameframe</Filter>
+    </ClInclude>
+    <ClInclude Include="Back\Back.h">
+      <Filter>Back</Filter>
+    </ClInclude>
+    <ClInclude Include="GunnerList\Gunner.h">
+      <Filter>GunnerList</Filter>
+    </ClInclude>
+    <ClInclude Include="GunnerList\GunnerList.h">
+      <Filter>GunnerList</Filter>
+    </ClInclude>
+    <ClInclude Include="FoeList\Foe.h">
+      <Filter>FoeList</Filter>
+    </ClInclude>
+    <ClInclude Include="FoeList\FoeBig.h">
+      <Filter>FoeList</Filter>
+    </ClInclude>
+    <ClInclude Include="FoeList\FoeList.h">
+      <Filter>FoeList</Filter>
+    </ClInclude>
+    <ClInclude Include="FoeList\FoeMid.h">
+      <Filter>FoeList</Filter>
+    </ClInclude>
+    <ClInclude Include="FoeList\FoeSma.h">
+      <Filter>FoeList</Filter>
+    </ClInclude>
+    <ClInclude Include="Config\Config.h">
+      <Filter>Config</Filter>
+    </ClInclude>
+    <ClInclude Include="PlaneApp\PlaneApp.h">
+      <Filter>PlaneApp</Filter>
+    </ClInclude>
+    <ClInclude Include="Player\Player.h">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="FoeList\FacFoe.h">
+      <Filter>FoeList</Filter>
+    </ClInclude>
+    <ClInclude Include="Observer\Observer.h">
+      <Filter>Observer</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

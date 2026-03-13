@@ -1,0 +1,19 @@
+#pragma once
+#define BACK_W 600
+#define BACK_H 800
+#define BACK_MOVE_STEP 3
+#define PLAYER_W 60
+#define PLAYER_H  60
+#define PLAYER_MOVE_STEP 4
+#define GUNNER_W 6
+#define GUNNER_H 20
+#define GUNNER_MOVE_STEP 8
+#define FOE_BIG_W 150
+#define FOE_BIG_H 100
+#define FOE_MID_W 80
+#define FOE_MID_H 60
+#define FOE_SMA_W 60
+#define FOE_SMA_H 40
+#define CREATE_FOESMA "sma"
+#define CREATE_FOEMID "mid"
+#define CREATE_FOEBIG "big"
